@@ -10,4 +10,4 @@ Praticar estruturação, layout e responsividade no desenvolvimento front-end.
 - CSS3
 
 ## 🌐 Demo
-(cole aqui o link do GitHub Pages)
+https://github.com/Lucas-glitch-arch/landing-page-academica.git
